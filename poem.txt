@@ -1,4 +1,4 @@
-The Rainbow of the hero
+The Rainbows of the hero and the villain
 
 
 Purple
@@ -10,3 +10,4 @@ Yellow
 Red
 These are the colors of the rainbow.
 And also hero.
+And also the villain
