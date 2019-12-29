@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow of the hero
 
 
 Purple
@@ -9,3 +9,4 @@ Green
 Yellow
 Red
 These are the colors of the rainbow.
+And also hero.
