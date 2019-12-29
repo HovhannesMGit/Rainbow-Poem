@@ -2,6 +2,8 @@ spider-man
 
 batman
 
+goblin
+
 Purple
 Pink
 Orange
@@ -11,5 +13,5 @@ Yellow
 Red
 Addition of E. M.
 
-
+i don't like goblin
 i like batman
